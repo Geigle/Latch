@@ -1,8 +1,6 @@
-Latch		{#mainpage}
-=====
+# Latch
 
-A Simple Regulator	{#regulator}
-------------------
+## A Simple Regulator
 This is a simple mechanism to limit spammy operations where a single execution
 will suffice.
 
